@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": " The Coon",
+    "image": "https://vignette.wikia.nocookie.net/spsot/images/d/dc/The_coon_-_south_park.png/revision/latest?cb=20171020174101",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 2,
+    "name": "Mysterion",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/8/83/Spfbw-mysterion.png/revision/latest?cb=20170531064805",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 3,
+    "name": "Professor Chaos",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/b/b8/Professor-chaos.png/revision/latest?cb=20170304221320",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/6/61/Latest-1.png/revision/latest?cb=20170531064404",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 5,
+    "name": "Mint Berry Cruch",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c7/Mint-berry-crunch.png/revision/latest?cb=20171023030230",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 6,
+    "name": "Toolshed",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/b/bd/Toolshed.transparent.png/revision/latest?cb=20170527025409",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 7,
+    "name": "Call Girl",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/e/e6/Fastpass-00.png/revision/latest?cb=20170815182503",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 8,
+    "name": "Wonder Tweek",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/1/1b/Wonder-tweek-000.png/revision/latest?cb=20170815182943",
+   "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 9,
+    "name": "Super Craig",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/3/3f/Superherores-super-craig.png/revision/latest?cb=20170531063739",
+    "occupation": "Adventurer",
+    "location": "South Park"
+  },
+  {
+    "id": 10,
+    "name": "Professor Timothy",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/9/90/Professor-timothy.png/revision/latest?cb=20170531004647",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 11,
+    "name": "Human Kite",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/c/c9/Humankite.transparent.png/revision/latest?cb=20170527031439",
+    "occupation": "Superhero",
+    "location": "South Park"
+  },
+  {
+    "id": 12,
+    "name": "Tumblewear",
+    "image": "https://vignette.wikia.nocookie.net/southpark/images/e/e8/Latest-15.png/revision/latest?cb=20170530124632",
+    "occupation": "Superhero",
+    "location": "South Park"
+  }
+]
