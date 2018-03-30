@@ -7,7 +7,7 @@ This is a memory game app, which the user have to click on different images on t
 
 1. Run npm install
 
-## The Store
+## The Game
 
 1. Enter yarn start in your terminal.
 
